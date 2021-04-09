@@ -2,6 +2,6 @@
 
 Data preprocessed with https://github.com/BleekerLab/snakemake_rnaseq
 
-Exon level trnascriptomic data anlysis.
+Exon level transcriptomic data anlysis.
 
 Gene set testing.
